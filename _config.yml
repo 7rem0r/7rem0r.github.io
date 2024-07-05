@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Leqi Zhao's Homepage"
+title                    : "Leqi Zhao"
 title_separator          : "-"
 name                     : &name "Leqi Zhao"
 description              : &description "Ph.D. Student at Zhejiang University"
