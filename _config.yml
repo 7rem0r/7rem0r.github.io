@@ -21,7 +21,7 @@ repository               : "7rem0r.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lerky.jpg"
+  avatar           : "profile.png"
   name             : "Leqi Zhao"
   bio              : "Ph.D. student at Zhejiang University"
   location         : "Hangzhou, China"
