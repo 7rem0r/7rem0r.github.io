@@ -21,7 +21,7 @@ Research Interests
 -  IoT Security
 
 
-Publications
+Publication
 ------
 1. [MobiSys'24] [Practical Optical Camera Communication Behind Unseen and Complex Backgrounds.](https://7rem0r.github.io/files/WinkLink-MOBISYS24.pdf) Rui Xiao, **Leqi Zhao**, Feng Qian, Lei Yang, Jinsong Han.
 1. [INFOCOM'24] [One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi.](https://7rem0r.github.io/files/OneSense-INFOCOM24.pdf) **Leqi Zhao**, Rui Xiao, Jianwei Liu, Jinsong Han.
