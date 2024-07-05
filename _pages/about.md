@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-About me
+About Me
 ------
 I’m currently a fisrt-year Ph.D. student in Computer Science at Zhejiang University under the supervision of [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). I received my B.S. at Zhejiang University in 2023.
 
@@ -21,7 +21,7 @@ Research Interests
 -  IoT Security
 
 
-Publication
+Publications
 ------
 1. [MobiSys'24] [Practical Optical Camera Communication Behind Unseen and Complex Backgrounds.](https://7rem0r.github.io/files/WinkLink-MOBISYS24.pdf) Rui Xiao, **Leqi Zhao**, Feng Qian, Lei Yang, Jinsong Han.
 1. [INFOCOM'24] [One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi.](https://7rem0r.github.io/files/OneSense-INFOCOM24.pdf) **Leqi Zhao**, Rui Xiao, Jianwei Liu, Jinsong Han.
